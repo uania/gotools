@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"sort"
+	"strings"
 	"time"
 
 	"i18n.com/matchWord"
@@ -46,25 +47,41 @@ func main() {
 	}
 	// 把新增项写入导出的文件中 直接导入该文件即可
 	// WriteExportExcel(exportPath, &waittingHandle)
-
-	var str string
+	waitmap := splitSlice(waittingHandle)
+	// var str string
 	// 	<data name="取消" xml:space="preserve">
 	//     <value>取消</value>
 	//   </data>
-	for _, item := range waittingHandle {
-		str += fmt.Sprintf(`<data name="%s" xml:space="preserve">`, item.Texts)
-		if item.TextEn == "" {
-			str += fmt.Sprintf(`<value>%s</value></data>`, item.Texts)
-		} else {
-			str += fmt.Sprintf(`<value>%s</value></data>`, item.TextEn)
+	var path string
+	for _, m := range waitmap {
+		if len(m) <= 0 {
+			continue
 		}
+		path = "../" + strings.Replace(m[0].ResxPath, "\\", "/", -1)
+		err := os.MkdirAll(path, os.ModePerm)
+		if err != nil {
+			panic(err)
+		}
+		sxml, err := os.Create(path + "/sxml.xml")
+		if err != nil {
+			panic(err)
+		}
+		var str string
+		for _, item := range waittingHandle {
+			str += fmt.Sprintf(`<data name="%s" xml:space="preserve">`, item.Texts)
+			//生成英文xml
+			if item.TextEn == "" {
+				str += fmt.Sprintf(`<value>%s</value></data>`, item.Texts)
+			} else {
+				str += fmt.Sprintf(`<value>%s</value></data>`, item.TextEn)
+			}
+			//中文xml
+			str += fmt.Sprintf(`<value>%s</value></data>`, item.Texts)
+		}
+
+		defer sxml.Close()
+		sxml.WriteString(str)
 	}
-	sxml, err := os.Create("../sxml.xml")
-	if err != nil {
-		panic(err)
-	}
-	defer sxml.Close()
-	sxml.WriteString(str)
 
 	// //读取翻译文本到map 并生成json
 	// t210 := "../t_210624.xlsx"
@@ -427,4 +444,22 @@ func ReadTranslateText(exportPath string) []KeyValue {
 	tjson.WriteString(tjsonStr1)
 	defer tjson.Close()
 	return res
+}
+
+func splitSlice(list []MiddleExcel) [][]MiddleExcel {
+	sort.Sort(MiddleExcelDecrement(list))
+	returnData := make([][]MiddleExcel, 0)
+	i := 0
+	var j int
+	for {
+		if i >= len(list) {
+			break
+		}
+		for j = i + 1; j < len(list) && list[i].ResxPath == list[j].ResxPath; j++ {
+		}
+
+		returnData = append(returnData, list[i:j])
+		i = j
+	}
+	return returnData
 }

@@ -1,0 +1,1822 @@
+[
+    {
+        "Name": "25KG总行李额、前舱宽敞座位、精美餐点、专柜值机等十大服务",
+        "Value": "Ten services offered including generous baggage allowance up to 25kg, spacious legroom, exquisite meal and dedicated check-in counter "
+    },
+    {
+        "Name": "查询更多舱位异常",
+        "Value": "Unable to query more cabin classes"
+    },
+    {
+        "Name": "超级经济舱",
+        "Value": "Super Economy"
+    },
+    {
+        "Name": "超值经济舱",
+        "Value": "Premium Economy"
+    },
+    {
+        "Name": "各个舱位数量占比",
+        "Value": "Proportion of cabin classes"
+    },
+    {
+        "Name": "公务舱/头等舱折扣",
+        "Value": "Business class / first class discount"
+    },
+    {
+        "Name": "国内机票舱位分析",
+        "Value": "Analysis of cabin classes - domestic flights"
+    },
+    {
+        "Name": "国内机票舱位预订习惯分析",
+        "Value": "Analysis of booking habits for cabin classes - domestic flights"
+    },
+    {
+        "Name": "请选择舱位折扣不在",
+        "Value": "Please select the cabin class discount not within XXX"
+    },
+    {
+        "Name": "请选择高舱位",
+        "Value": "Please select non-economy cabin"
+    },
+    {
+        "Name": "商务/公务舱",
+        "Value": "Business class"
+    },
+    {
+        "Name": "数量占比图",
+        "Value": "Chart with number and percentage"
+    },
+    {
+        "Name": "提前预订天数分析",
+        "Value": "Analysis of advance reservation period"
+    },
+    {
+        "Name": "提前预订天数占比",
+        "Value": "Proportion of advance reservation period"
+    },
+    {
+        "Name": "提现申请成功",
+        "Value": "Cash withdrawal request submitted"
+    },
+    {
+        "Name": "违背政策",
+        "Value": "Against the policy"
+    },
+    {
+        "Name": "违反差旅规则：",
+        "Value": "Against the travel rules"
+    },
+    {
+        "Name": "未发现当前三字码",
+        "Value": "Current code not found"
+    },
+    {
+        "Name": "不符合您的差旅规则，禁止预订",
+        "Value": "No booking allowed due to violation of the travel rules"
+    },
+    {
+        "Name": "催审失败",
+        "Value": "Urging approval failed"
+    },
+    {
+        "Name": "订单催审成功",
+        "Value": "Urging order approval succeeded"
+    },
+    {
+        "Name": "订单催审失败",
+        "Value": "Urging order approval failed"
+    },
+    {
+        "Name": "订单催审提交成功！",
+        "Value": "Urging order approval submitted"
+    },
+    {
+        "Name": "订单催审提交失败",
+        "Value": "Urging order approval not submitted"
+    },
+    {
+        "Name": "订单催审异常",
+        "Value": "Unable to urge order approval"
+    },
+    {
+        "Name": "是否确认催审？",
+        "Value": "Confirm urging order approval?"
+    },
+    {
+        "Name": "编辑保存成功",
+        "Value": "Changes saved successfully"
+    },
+    {
+        "Name": "编辑旅客",
+        "Value": "Edit traveller"
+    },
+    {
+        "Name": "编辑项目",
+        "Value": "Edit program"
+    },
+    {
+        "Name": "编辑异常",
+        "Value": "Unable to edit"
+    },
+    {
+        "Name": "编辑员工",
+        "Value": "Edit employee"
+    },
+    {
+        "Name": "编辑主体",
+        "Value": "Edit main body"
+    },
+    {
+        "Name": "任务不存在",
+        "Value": "Task doesn't exist"
+    },
+    {
+        "Name": "上传异常",
+        "Value": "Unable to upload"
+    },
+    {
+        "Name": "数据不完整",
+        "Value": "Incomplete data"
+    },
+    {
+        "Name": "数据为空",
+        "Value": "Data is blank."
+    },
+    {
+        "Name": "数据项名称不能为空",
+        "Value": "Data item name cannot be blank."
+    },
+    {
+        "Name": "数据项配置不能为空",
+        "Value": "Data item configuration cannot be blank."
+    },
+    {
+        "Name": "数据异常",
+        "Value": "Data exception"
+    },
+    {
+        "Name": "数据异常，请刷新页面后重试",
+        "Value": "Data exception. Please refresh the page and try again."
+    },
+    {
+        "Name": "添加成功",
+        "Value": "Added successfully."
+    },
+    {
+        "Name": "添加失败",
+        "Value": "Failed to add"
+    },
+    {
+        "Name": "添加失败,差旅规则名称重复",
+        "Value": "Failed to add. Duplicate travel rule name"
+    },
+    {
+        "Name": "文件上传失败!",
+        "Value": "File upload failed!"
+    },
+    {
+        "Name": "文件最多上传",
+        "Value": "Maximum number of file uploads"
+    },
+    {
+        "Name": "修改失败",
+        "Value": "Modification failed"
+    },
+    {
+        "Name": "修改失败,差旅规则名称重复",
+        "Value": "Modification failed. Duplicate travel rule name"
+    },
+    {
+        "Name": "驳回成功",
+        "Value": "Successfully rejected"
+    },
+    {
+        "Name": "审批驳回成功",
+        "Value": "Approval rejected successfully"
+    },
+    {
+        "Name": "审批驳回失败",
+        "Value": "Approval rejection failed"
+    },
+    {
+        "Name": "审批成功",
+        "Value": "Successfully approved"
+    },
+    {
+        "Name": "审批规则设置错误",
+        "Value": "Approval rule setting error"
+    },
+    {
+        "Name": "审批提交成功",
+        "Value": "Approval submitted successfully"
+    },
+    {
+        "Name": "审批提交失败",
+        "Value": "Failed to submit approval"
+    },
+    {
+        "Name": "审批同意失败",
+        "Value": "Approval failed"
+    },
+    {
+        "Name": "审批异常，请联系客服处理",
+        "Value": "Unable to approve, please contact customer service."
+    },
+    {
+        "Name": "付款成功",
+        "Value": "Payment successful"
+    },
+    {
+        "Name": "付款异常",
+        "Value": "Payment exception"
+    },
+    {
+        "Name": "开户单位：北京福莱森特国际旅游有限公司",
+        "Value": "Company name: "
+    },
+    {
+        "Name": "开户银行：汇丰银行（中国）有限公司上海分行",
+        "Value": "Opening bank of deposit: HSBC Bank (China) Company Limited Shanghai Branch"
+    },
+    {
+        "Name": "开户银行：招商银行股份有限公司上海常德支行",
+        "Value": "Opening bank of deposit: China Merchants Bank Co Ltd Shanghai Changde Sub-Branch"
+    },
+    {
+        "Name": "开户银行：中国工商银行股份有限公司北京国展支行",
+        "Value": "Opening bank of deposit: Industrial and Commercial Bank of China Limited Beijing Municipal Branch, Guozhan Sub-Branch"
+    },
+    {
+        "Name": "开户银行：中国工商银行上海市长寿路支行",
+        "Value": "Opening bank of deposit: Industrial and Commercial Bank of China Limited Shanghai Changshou Rd. Sub-Branch"
+    },
+    {
+        "Name": "系统支付代码：501290000012  Swift Code：HSBCCNSH",
+        "Value": "System payment code: 501290000012  Swift Code：HSBCCNSH"
+    },
+    {
+        "Name": "银行地址：北京市朝阳区西坝河东里甲14号  100028",
+        "Value": "Bank address: No.14 Dongli, Xibahe ,Chaoyang District, Beijing 100028"
+    },
+    {
+        "Name": "银行地址：上海市浦东世纪大道8号国金中心地下一层及1-38楼",
+        "Value": "Bank address: LG1 \u0026 Floor 1-38, Shanghai IFC, 8 Century Avenue, Pudong District, Shanghai "
+    },
+    {
+        "Name": "银行地址：上海市普陀区陕西北路1392弄8号914室    021-22111955",
+        "Value": "Bank address: Room 914, No.8, Lane 1392, North Shanxi Road, Putuo District, Shangahai. Tel: 021-22111955"
+    },
+    {
+        "Name": "银行行号：966",
+        "Value": "Bank Code: 966"
+    },
+    {
+        "Name": "银行账号：0200 2530 0900 0008 519",
+        "Value": "Bank account: 0200 2530 0900 0008 519"
+    },
+    {
+        "Name": "银行账号：0200 2530 0902 4201 029",
+        "Value": "Bank account: 0200 2530 0902 4201 029"
+    },
+    {
+        "Name": "银行账号：088-353057-001",
+        "Value": "Bank account: 088-353057-001"
+    },
+    {
+        "Name": "银行账号：1001210009424841765",
+        "Value": "Bank account: 1001210009424841765"
+    },
+    {
+        "Name": "银行账号：121909292210902",
+        "Value": "Bank account: 121909292210902"
+    },
+    {
+        "Name": "收款账户信息开户行未填写",
+        "Value": "Collection account information - opening bank  not filled in"
+    },
+    {
+        "Name": "收款账户信息收款人未填写",
+        "Value": "Collection account information- receiver not filled in"
+    },
+    {
+        "Name": "收款账户信息未填写",
+        "Value": "Collection account information not filled in"
+    },
+    {
+        "Name": "收款账户信息账户未填写",
+        "Value": "Collection account information - account not filled in"
+    },
+    {
+        "Name": "改签待支付提交成功",
+        "Value": "Flight change -pending payment submitted successfully"
+    },
+    {
+        "Name": "改签申请已提交成功",
+        "Value": "Flight change -application submitted successfully"
+    },
+    {
+        "Name": "改签提交成功~",
+        "Value": "Flight change submitted successfully"
+    },
+    {
+        "Name": "改签提交失败",
+        "Value": "Failed to submit flight change"
+    },
+    {
+        "Name": "改签提交失败！",
+        "Value": "Failed to submit flight change!"
+    },
+    {
+        "Name": "国内机票退改签分析",
+        "Value": "Analysis of domestic flight cancellation and change"
+    },
+    {
+        "Name": "行程变更",
+        "Value": "Itinerary change"
+    },
+    {
+        "Name": "航班变动申请全退",
+        "Value": "Apply for full refund of flight change"
+    },
+    {
+        "Name": "获取退改信息异常",
+        "Value": "Unable to request flight cancellation/change information"
+    },
+    {
+        "Name": "旅客行程改变自愿申退",
+        "Value": "Voluntary refund application due to traveller's itinerary change"
+    },
+    {
+        "Name": "请输入改签应付金额",
+        "Value": "Please enter amount payable for flight change."
+    },
+    {
+        "Name": "请输入改签原因",
+        "Value": "Please enter reason for flight change."
+    },
+    {
+        "Name": "请输入退票原因",
+        "Value": "Please enter reason for flight cancellation."
+    },
+    {
+        "Name": "请填写改签原因",
+        "Value": "Please fill in reason for flight change."
+    },
+    {
+        "Name": "请填写改签原因描述",
+        "Value": "Please fill in description of reason for flight change."
+    },
+    {
+        "Name": "请填写退票原因",
+        "Value": "Please fill in reason for flight cancellation."
+    },
+    {
+        "Name": "请填写退票原因描述",
+        "Value": "Please fill in description of reason for flight cancellation."
+    },
+    {
+        "Name": "请选择改签返程日期",
+        "Value": "Please select return date of the flight change."
+    },
+    {
+        "Name": "请选择改签去程日期",
+        "Value": "Please select departure date of the flight change."
+    },
+    {
+        "Name": "请选择改签支付时限",
+        "Value": "Please select payment time limit of the flight change."
+    },
+    {
+        "Name": "请选择退票原因",
+        "Value": "Please select reason for flight cancellation."
+    },
+    {
+        "Name": "请选择需要改签的乘客",
+        "Value": "Please select the passenger that requires flight change."
+    },
+    {
+        "Name": "请选择需要改签的行程",
+        "Value": "Please select the itinerary that requires flight change."
+    },
+    {
+        "Name": "请选择需要退票的乘客",
+        "Value": "Please select the passenger that requires flight cancellation."
+    },
+    {
+        "Name": "请选择需要退票的行程",
+        "Value": "Please select the itinerary that requires flight cancellation."
+    },
+    {
+        "Name": "取消改签成功",
+        "Value": "Flight change cancelled successfully"
+    },
+    {
+        "Name": "取消退票成功",
+        "Value": "Flight cancellation cancelled successfully"
+    },
+    {
+        "Name": "确定继续改签？",
+        "Value": "Continue to change flight?"
+    },
+    {
+        "Name": "确定继续退订？",
+        "Value": "Continue to cancel flight?"
+    },
+    {
+        "Name": "确认改签提交成功",
+        "Value": "Confirmation of flight change submitted successfully"
+    },
+    {
+        "Name": "提交退订失败",
+        "Value": "Failed to submit unsubscribe request"
+    },
+    {
+        "Name": "提交退订完成，稍后会短信通知您",
+        "Value": "Submit unsubscribe request completed. You will receive a text message later."
+    },
+    {
+        "Name": "退订成功",
+        "Value": "Unsubscribe successful "
+    },
+    {
+        "Name": "退订提交完成",
+        "Value": "Submit unsubscribe request completed"
+    },
+    {
+        "Name": "退改分析",
+        "Value": "Analysis of cancellation and change"
+    },
+    {
+        "Name": "退票申请已提交成功",
+        "Value": "Cancellation application submitted successfully"
+    },
+    {
+        "Name": "退票提交成功~",
+        "Value": "Cancellation submitted successfully"
+    },
+    {
+        "Name": "退票提交失败",
+        "Value": "Failed to submit cancellation"
+    },
+    {
+        "Name": "退票提交失败！",
+        "Value": "Failed to submit cancellation!"
+    },
+    {
+        "Name": "正在退票中，退票成功将会通知您",
+        "Value": "Cancellation in progress. You will be informed of successful cancellation."
+    },
+    {
+        "Name": "只能编辑改签中的订单",
+        "Value": "You can only edit orders of flight change in progress."
+    },
+    {
+        "Name": "最多可选9名出差人",
+        "Value": "Up to 9 travellers"
+    },
+    {
+        "Name": "最多只能添加9名乘客",
+        "Value": "Up to 9 passengers can be added"
+    },
+    {
+        "Name": "最多只能选9个出差人",
+        "Value": "Up to 9 travellers can be selected"
+    },
+    {
+        "Name": "乘客的证件号输入格式有误",
+        "Value": "Format error of passenger's ID number"
+    },
+    {
+        "Name": "乘客最多不能超过9个人",
+        "Value": "Maximum number of passengers is 9"
+    },
+    {
+        "Name": "非共享航班",
+        "Value": "Unshared flight"
+    },
+    {
+        "Name": "该业务暂未合作",
+        "Value": "Business partnership unavailable"
+    },
+    {
+        "Name": "共享，实际由",
+        "Value": "Codeshare flight operated by"
+    },
+    {
+        "Name": "获取当前用户信息失败",
+        "Value": "Failed to get current user"
+    },
+    {
+        "Name": "获取订单信息失败",
+        "Value": "Failed to get order information"
+    },
+    {
+        "Name": "请输入出差人手机号",
+        "Value": "Please enter traveller's mobile phone number."
+    },
+    {
+        "Name": "请输入出差人姓名",
+        "Value": "Please enter traveller's name."
+    },
+    {
+        "Name": "请输入出差事由",
+        "Value": "Please enter reason for travel."
+    },
+    {
+        "Name": "请输入申请单号",
+        "Value": "Please enter the application number."
+    },
+    {
+        "Name": "请输入违反原因",
+        "Value": "Please enter reason for violation."
+    },
+    {
+        "Name": "输入内容信息",
+        "Value": "Enter information"
+    },
+    {
+        "Name": "约",
+        "Value": "about"
+    },
+    {
+        "Name": "停留",
+        "Value": "stay"
+    },
+    {
+        "Name": "我们会竭诚为您服务",
+        "Value": "We remain at your service."
+    },
+    {
+        "Name": "1成人",
+        "Value": "1 adult"
+    },
+    {
+        "Name": "1级审批",
+        "Value": "Tier 1 approval"
+    },
+    {
+        "Name": "5 折",
+        "Value": "50% off"
+    },
+    {
+        "Name": "HTML5桌面消息出错！！！",
+        "Value": "HTML5 desktop notifications error!!!"
+    },
+    {
+        "Name": "HTML5桌面消息关闭！！！",
+        "Value": "HTML5 desktop notifications off!!!"
+    },
+    {
+        "Name": "安全验证失败，请重试...",
+        "Value": "Security verification failed, please try again…"
+    },
+    {
+        "Name": "保存失败",
+        "Value": "Save failed"
+    },
+    {
+        "Name": "保存失败，联系管理员",
+        "Value": "Save failed. Contact the administrator."
+    },
+    {
+        "Name": "保存异常",
+        "Value": "Unable to save"
+    },
+    {
+        "Name": "操作成功",
+        "Value": "Successful"
+    },
+    {
+        "Name": "操作成功！感谢您的申请，我们会尽快与您联系！",
+        "Value": "Successful! Thank you for your application. We will contact you as soon as possible!"
+    },
+    {
+        "Name": "操作失败，请联系管理员",
+        "Value": "Failed. Please contact the administrator."
+    },
+    {
+        "Name": "操作失败，详细信息",
+        "Value": "Failed. More information"
+    },
+    {
+        "Name": "查看详情异常",
+        "Value": "Unable to view details"
+    },
+    {
+        "Name": "查询更多价格失败",
+        "Value": "More price query failed"
+    },
+    {
+        "Name": "查询航班异常",
+        "Value": "Unable to query flight"
+    },
+    {
+        "Name": "查询失败",
+        "Value": "Query failed"
+    },
+    {
+        "Name": "查询最低价参数异常",
+        "Value": "Lowest price query parameter exception"
+    },
+    {
+        "Name": "查询最低价失败",
+        "Value": "Lowest price query failed"
+    },
+    {
+        "Name": "超标禁止预订",
+        "Value": "Booking request declined. Exceeding policy limit"
+    },
+    {
+        "Name": "承运",
+        "Value": "Carriage"
+    },
+    {
+        "Name": "乘机人不在贵司与航司优惠价格协议名单内，请选择非大客户运价下单",
+        "Value": "The passenger is not in the list of corporate fare agreement with the airline. Please seclect non-key accounts fare to place your order."
+    },
+    {
+        "Name": "乘客的出生日期为空",
+        "Value": "Passenger's date of birth is blank."
+    },
+    {
+        "Name": "乘客的手机号不能为空",
+        "Value": "Passenger's mobile phone number cannot be blank."
+    },
+    {
+        "Name": "乘客的手机号或邮箱地址不能为空，请选填一项",
+        "Value": "Passenger's mobile phone number or email address cannot be blank. Please select one."
+    },
+    {
+        "Name": "乘客的姓名为空",
+        "Value": "Passenger's name is blank."
+    },
+    {
+        "Name": "乘客的邮箱不能为空",
+        "Value": "Passenger's email address cannot be blank."
+    },
+    {
+        "Name": "乘客的证件号为空",
+        "Value": "Passenger's ID number is blank."
+    },
+    {
+        "Name": "乘客的证件有效期为空",
+        "Value": "Passenger's ID expiry date is blank."
+    },
+    {
+        "Name": "乘客价格信息异常，请联系客服",
+        "Value": "Passenger's price information exception. Please contact customer service."
+    },
+    {
+        "Name": "程中转",
+        "Value": "transfer(s)"
+    },
+    {
+        "Name": "出差人成本中心不能为空",
+        "Value": "Traveller's cost center cannot be blank."
+    },
+    {
+        "Name": "出差人手机号不能为空",
+        "Value": "Traveller's mobile phone number cannot be blank."
+    },
+    {
+        "Name": "出差人姓名不能为空",
+        "Value": "Traveller's name cannot be blank."
+    },
+    {
+        "Name": "出差人邮箱不能为空",
+        "Value": "Traveller's email address cannot be blank."
+    },
+    {
+        "Name": "出差人证件号不能为空",
+        "Value": "Traveller's ID number cannot be blank."
+    },
+    {
+        "Name": "出差人证件类型不能为空",
+        "Value": "Traveller's ID type cannot be blank."
+    },
+    {
+        "Name": "出发、到达城市相同",
+        "Value": "Same departure and arrival city"
+    },
+    {
+        "Name": "出发城市不能和到达城市相同",
+        "Value": "Departure city and arrival city cannot be the same."
+    },
+    {
+        "Name": "出发城市不完善",
+        "Value": "Departure city incomplete"
+    },
+    {
+        "Name": "出发日期不完善",
+        "Value": "Departure date incomplete"
+    },
+    {
+        "Name": "处理失败",
+        "Value": "Processing failed"
+    },
+    {
+        "Name": "创建订单失败",
+        "Value": "Failed to create order"
+    },
+    {
+        "Name": "错误提示",
+        "Value": "Error message"
+    },
+    {
+        "Name": "大陆乘客来往台湾，证件类型请使用台湾通行证，如在台湾中转/经停，请选择护照并携带后续航班行程单。",
+        "Value": "For mainland residents travelling to and from Taiwan, please select Taiwan Travel Permit for ID type. For transfer/transit, please select passport and bring itinerary of subsequent flights."
+    },
+    {
+        "Name": "大陆乘客往来港澳，请使用港澳通行证；使用护照出行的乘客，须同时持有7天内前往第三国或地区的机票。",
+        "Value": "For mainland residents travelling to and from Hong Kong and Macau, please use Hong Kong/Macau Exit-Entry Permit. Passengers traveling with a passport must also hold a ticket to a third country or region within 7 days."
+    },
+    {
+        "Name": "单据类型不能为空",
+        "Value": "Document type cannot be blank."
+    },
+    {
+        "Name": "单元项信息异常，请刷新后重试",
+        "Value": "Unit information exception. Please refresh the page and try again."
+    },
+    {
+        "Name": "导入成功",
+        "Value": "Imported successfully"
+    },
+    {
+        "Name": "登录失败，请重试...",
+        "Value": "Login failed, please try again…"
+    },
+    {
+        "Name": "订单",
+        "Value": "Order"
+    },
+    {
+        "Name": "订单号异常",
+        "Value": "Order number exception"
+    },
+    {
+        "Name": "订单量",
+        "Value": "Order volume"
+    },
+    {
+        "Name": "订单取消失败",
+        "Value": "Order cancellation failed"
+    },
+    {
+        "Name": "订单取消提交成功",
+        "Value": "Order cancellation submitted successfully"
+    },
+    {
+        "Name": "订单取消提交成功！",
+        "Value": "Order cancellation submitted successfully!"
+    },
+    {
+        "Name": "订单取消提交失败",
+        "Value": "Failed to submit order cancellation"
+    },
+    {
+        "Name": "订单取消异常",
+        "Value": "Unable to cancel order"
+    },
+    {
+        "Name": "订单提交成功",
+        "Value": "Order submitted successfully"
+    },
+    {
+        "Name": "订单提交失败",
+        "Value": "Failed to submit order"
+    },
+    {
+        "Name": "订单信息丢失",
+        "Value": "Order information lost"
+    },
+    {
+        "Name": "订单信息异常",
+        "Value": "Order information exception"
+    },
+    {
+        "Name": "订单信息异常，请刷新后重试",
+        "Value": "Order information exception. Please refresh the page and try again."
+    },
+    {
+        "Name": "订单异常",
+        "Value": "Order exception"
+    },
+    {
+        "Name": "订票数量",
+        "Value": "Number of bookings"
+    },
+    {
+        "Name": "飞机",
+        "Value": "Aircraft"
+    },
+    {
+        "Name": "符合差旅规则",
+        "Value": "In compliance with travel rules"
+    },
+    {
+        "Name": "符合政策",
+        "Value": "In compliance with policy"
+    },
+    {
+        "Name": "附加信息中",
+        "Value": "Additional information"
+    },
+    {
+        "Name": "附加信息中的",
+        "Value": "Of additional information"
+    },
+    {
+        "Name": "格式不符合规则",
+        "Value": "Format not in compliance with rules"
+    },
+    {
+        "Name": "公司名称不能为空",
+        "Value": "Company name cannot be blank."
+    },
+    {
+        "Name": "公司邮箱不能为空",
+        "Value": "Company email address cannot be blank."
+    },
+    {
+        "Name": "国内行程请使用（国内机票）进行购票",
+        "Value": "For domestic travel, please use (domestic flights) for ticket purchase"
+    },
+    {
+        "Name": "国内机票报表统计.pdf",
+        "Value": "Domestic flights reporting statistics.pdf"
+    },
+    {
+        "Name": "国内机票部门前十统计",
+        "Value": "Domestic flights: department top ten"
+    },
+    {
+        "Name": "国内机票差旅分析.pdf",
+        "Value": "Domestic flights travel analysis.pdf"
+    },
+    {
+        "Name": "国内机票含税价格占比",
+        "Value": "Domestic flights: proportion of total price including taxes"
+    },
+    {
+        "Name": "国内机票航司大客户协议价格分析",
+        "Value": "Domestic flights: analysis of key account contract price"
+    },
+    {
+        "Name": "国内机票航线分布图",
+        "Value": "Domestic flights: air route map"
+    },
+    {
+        "Name": "国内机票价格节省分析",
+        "Value": "Domestic flights: analysis of price savings"
+    },
+    {
+        "Name": "国内机票前十航司",
+        "Value": "Domestic flights: top ten airline companies"
+    },
+    {
+        "Name": "国内机票前十航线",
+        "Value": "Domestic flights: top ten airlines"
+    },
+    {
+        "Name": "国内机票提前预订天数与折扣",
+        "Value": "Domestic flights: advance reservation period and discount"
+    },
+    {
+        "Name": "国内机票项目前十统计",
+        "Value": "Domestic flights: project top ten"
+    },
+    {
+        "Name": "国内机票月度采购柱状图",
+        "Value": "Domestic flights: histogram of monthly purchase"
+    },
+    {
+        "Name": "国内机票月度汇总",
+        "Value": "Domestic flights: monthly summary"
+    },
+    {
+        "Name": "国内机票月度平均折扣",
+        "Value": "Domestic flights: monthly average discount"
+    },
+    {
+        "Name": "国内机票占比",
+        "Value": "Proportion of domestic flights"
+    },
+    {
+        "Name": "含税总价",
+        "Value": "Total price including taxes"
+    },
+    {
+        "Name": "航班查询异常",
+        "Value": "Unable to search flights"
+    },
+    {
+        "Name": "航班推迟",
+        "Value": "Flight delay"
+    },
+    {
+        "Name": "航班信息异常，请重新选择",
+        "Value": "Flight information exception. Please select again."
+    },
+    {
+        "Name": "航司分布分析",
+        "Value": "Analysis of airline distribution"
+    },
+    {
+        "Name": "核验失败",
+        "Value": "Verification failed"
+    },
+    {
+        "Name": "获取绑定产品失败",
+        "Value": "Failed to acquire bundled product"
+    },
+    {
+        "Name": "获取绑定产品异常",
+        "Value": "Unable to acquire bundled product"
+    },
+    {
+        "Name": "获取差旅数据失败",
+        "Value": "Failed to acquire travel data"
+    },
+    {
+        "Name": "获取差旅数据异常",
+        "Value": "Unable to acquire travel data"
+    },
+    {
+        "Name": "获取共享信息失败",
+        "Value": "Failed to acquire shared information"
+    },
+    {
+        "Name": "获取国际机票总览信息失败",
+        "Value": "Failed to acquire internation flights overview information"
+    },
+    {
+        "Name": "获取国际机票总览信息异常",
+        "Value": "Unable to acquire internation flights overview information"
+    },
+    {
+        "Name": "获取机票总览信息失败",
+        "Value": "Failed to acquire flights overview information"
+    },
+    {
+        "Name": "获取机票总览信息异常",
+        "Value": "Unable to acquire flights overview information"
+    },
+    {
+        "Name": "获取客规失败",
+        "Value": "Failed to acquire provision of passenger services"
+    },
+    {
+        "Name": "获取审批详情失败",
+        "Value": "Failed to acquire approval details"
+    },
+    {
+        "Name": "获取审批详情异常",
+        "Value": "Unable to acquire approval details"
+    },
+    {
+        "Name": "获取详情失败",
+        "Value": "Failed to acquire details"
+    },
+    {
+        "Name": "获取详情异常",
+        "Value": "Unable to acquire details"
+    },
+    {
+        "Name": "获取支付信息失败",
+        "Value": "Failed to acquire payment information"
+    },
+    {
+        "Name": "获取支付信息失败！",
+        "Value": "Failed to acquire payment information!"
+    },
+    {
+        "Name": "获取综合订单信息失败",
+        "Value": "Failed to acquire comprehensive order information"
+    },
+    {
+        "Name": "间隔必须小于三个月",
+        "Value": "Interval must be less than three months."
+    },
+    {
+        "Name": "降落机场",
+        "Value": "Landing airport"
+    },
+    {
+        "Name": "联系电话不能为空",
+        "Value": "Contact phone cannot be blank."
+    },
+    {
+        "Name": "联系人不能为空",
+        "Value": "Contact person cannot be blank."
+    },
+    {
+        "Name": "联系人电话不完善",
+        "Value": "Contact phone incomplete"
+    },
+    {
+        "Name": "联系人手机不能为空",
+        "Value": "Contact person's phone number cannot be blank."
+    },
+    {
+        "Name": "联系人手机号不能为空",
+        "Value": "Contact person's mobile phone number cannot be blank."
+    },
+    {
+        "Name": "联系人信息不能为空",
+        "Value": "Contact person's information cannot be blank."
+    },
+    {
+        "Name": "联系人姓名不能为空",
+        "Value": "Contact person's name cannot be blank."
+    },
+    {
+        "Name": "联系人姓名不完善",
+        "Value": "Contact person's name incomplete"
+    },
+    {
+        "Name": "联系人姓名和手机号不能为空",
+        "Value": "Contact person's name and mobile phone number cannot be blank."
+    },
+    {
+        "Name": "联系人邮箱不能为空",
+        "Value": "Contact person's email address cannot be blank."
+    },
+    {
+        "Name": "联系邮箱不能为空",
+        "Value": "Contact email address cannot be blank."
+    },
+    {
+        "Name": "没有航班的预订",
+        "Value": "Reservation without flight"
+    },
+    {
+        "Name": "您的订单已成功取消",
+        "Value": "Your order has been cancelled successfully."
+    },
+    {
+        "Name": "您的订单已经取消",
+        "Value": "Your order has been cancelled."
+    },
+    {
+        "Name": "您的浏览器不支持桌面消息",
+        "Value": "Your browser does not support desktop notification."
+    },
+    {
+        "Name": "您好！已将审批通知重新发送至审批人，并给审批人再次发送短信邮件",
+        "Value": "Hello! Approval notice has been sent to the approver again. SMS and email were also sent to the approver."
+    },
+    {
+        "Name": "您好，当前为综合订单模式，请先选择出差人！",
+        "Value": "Hello! Please select traveller first in the current mode of comprehensive order."
+    },
+    {
+        "Name": "您好，请先选择出差人！",
+        "Value": "Hello! Please select traveller first."
+    },
+    {
+        "Name": "匹配差旅规则出错，请重试",
+        "Value": "Error matching travel rules, please try again."
+    },
+    {
+        "Name": "平均折扣",
+        "Value": "Average discount"
+    },
+    {
+        "Name": "企业钱包支付失败",
+        "Value": "Enterprise wallet payment failure"
+    },
+    {
+        "Name": "起飞后：",
+        "Value": "After departure"
+    },
+    {
+        "Name": "起飞后请联系客服",
+        "Value": "Please contact customer service after departure."
+    },
+    {
+        "Name": "起飞机场",
+        "Value": "Departure airport"
+    },
+    {
+        "Name": "起飞前：",
+        "Value": "Before departure"
+    },
+    {
+        "Name": "起飞前请联系客服",
+        "Value": "Please contact customer service before departure."
+    },
+    {
+        "Name": "请检查并设置时间限制项时间范围",
+        "Value": "Please check and set a time limit/time frame."
+    },
+    {
+        "Name": "请检查联系人信息",
+        "Value": "Please check contact person's information."
+    },
+    {
+        "Name": "请联系客服",
+        "Value": "Please contact customer service."
+    },
+    {
+        "Name": "请求中。。",
+        "Value": "Processing…"
+    },
+    {
+        "Name": "请取消免审状态",
+        "Value": "Please cancel the approval-free status."
+    },
+    {
+        "Name": "请确保已阅读温馨提示",
+        "Value": "Please make sure you have read the reminder."
+    },
+    {
+        "Name": "请稍后",
+        "Value": "Please XXX later."
+    },
+    {
+        "Name": "请稍候",
+        "Value": "Please wait"
+    },
+    {
+        "Name": "请设置",
+        "Value": "Please configure the setting."
+    },
+    {
+        "Name": "请输入详细地址",
+        "Value": "Please enter detailed address."
+    },
+    {
+        "Name": "请填写",
+        "Value": "Please enter"
+    },
+    {
+        "Name": "请填写备注",
+        "Value": "Please enter remarks."
+    },
+    {
+        "Name": "请填写驳回理由",
+        "Value": "Please enter reason for rejection."
+    },
+    {
+        "Name": "请填写不同意理由",
+        "Value": "Please enter reason for disapproval."
+    },
+    {
+        "Name": "请填写成本中心",
+        "Value": "Please enter cost center."
+    },
+    {
+        "Name": "请填写出差原因",
+        "Value": "Please enter reason for business travel."
+    },
+    {
+        "Name": "请填写出行日期",
+        "Value": "Please enter departure date."
+    },
+    {
+        "Name": "请填写费用预算",
+        "Value": "Please enter expense budget."
+    },
+    {
+        "Name": "请填写票号",
+        "Value": "Please enter ticket number."
+    },
+    {
+        "Name": "请填写人均预算金额",
+        "Value": "Please enter budget per capita."
+    },
+    {
+        "Name": "请填写正确金额",
+        "Value": "Please enter the correct amount."
+    },
+    {
+        "Name": "请填写总人数",
+        "Value": "Please enter total number of people."
+    },
+    {
+        "Name": "请先进行数据查询后再导出",
+        "Value": "Please run query before exporting data."
+    },
+    {
+        "Name": "请选择报表的时间段",
+        "Value": "Please select time period of the report."
+    },
+    {
+        "Name": "请选择超标预订原因",
+        "Value": "Please select reason for booking over policy limit."
+    },
+    {
+        "Name": "请选择城市",
+        "Value": "Please select city."
+    },
+    {
+        "Name": "请选择出差人",
+        "Value": "Please select traveller."
+    },
+    {
+        "Name": "请选择出差申请单",
+        "Value": "Please select travel application form."
+    },
+    {
+        "Name": "请选择出差申请单，如果没有，请先提交出差申请，审核通过后即可预订",
+        "Value": "Please select the travel application form. If not, please submit travel application first and make reservation after it is approved."
+    },
+    {
+        "Name": "请选择出发城市",
+        "Value": "Please select departure city."
+    },
+    {
+        "Name": "请选择出发地 / 到达地",
+        "Value": "Please select place of departure / arrival."
+    },
+    {
+        "Name": "请选择出发地/到达地城市",
+        "Value": "Please select city of departure / destination."
+    },
+    {
+        "Name": "请选择出发日期",
+        "Value": "Please select departure date."
+    },
+    {
+        "Name": "请选择出发时间",
+        "Value": "Please select departure time."
+    },
+    {
+        "Name": "请选择出行时间",
+        "Value": "Please select time of departure."
+    },
+    {
+        "Name": "请选择导出月份",
+        "Value": "Please select export month."
+    },
+    {
+        "Name": "请选择到达城市",
+        "Value": "Please select arrival city."
+    },
+    {
+        "Name": "请选择发票配置类型",
+        "Value": "Please select invoice configuration type."
+    },
+    {
+        "Name": "请选择发生日期",
+        "Value": "Please select the date of occurrence."
+    },
+    {
+        "Name": "请选择返程时间",
+        "Value": "Please select return time."
+    },
+    {
+        "Name": "请选择返回日期",
+        "Value": "Please select return date."
+    },
+    {
+        "Name": "请选择费用类型",
+        "Value": "Please select expense type."
+    },
+    {
+        "Name": "请选择国家/地区",
+        "Value": "Please select country/region."
+    },
+    {
+        "Name": "请选择交易分类",
+        "Value": "Please select transaction classification."
+    },
+    {
+        "Name": "请选择结束日期",
+        "Value": "Please select end date."
+    },
+    {
+        "Name": "请选择截至日期",
+        "Value": "Please select cutoff date."
+    },
+    {
+        "Name": "请选择具体方位",
+        "Value": "Please select specific location."
+    },
+    {
+        "Name": "请选择开始日期",
+        "Value": "Please select start date."
+    },
+    {
+        "Name": "请选择配送方式",
+        "Value": "Please choose the delivery method."
+    },
+    {
+        "Name": "请选择区、县",
+        "Value": "Please select district/county."
+    },
+    {
+        "Name": "请选择入住城市",
+        "Value": "Please select city of the hotel."
+    },
+    {
+        "Name": "请选择入住人",
+        "Value": "Please select the person to check in."
+    },
+    {
+        "Name": "请选择入住日期",
+        "Value": "Please select check-in date."
+    },
+    {
+        "Name": "请选择省、直辖市",
+        "Value": "Please select province/municipality."
+    },
+    {
+        "Name": "请选择适用类型",
+        "Value": "Please select applied type."
+    },
+    {
+        "Name": "请选择适用人员类型",
+        "Value": "Please select the applicable personnel type."
+    },
+    {
+        "Name": "请选择完整的发票邮寄地区",
+        "Value": "Please select the complete invoice mailing area."
+    },
+    {
+        "Name": "请选择未提前预订原因",
+        "Value": "Please select reason for non-advance reservation."
+    },
+    {
+        "Name": "请选择新航班",
+        "Value": "Please select new flight."
+    },
+    {
+        "Name": "请选择性别信息",
+        "Value": "Please select gender."
+    },
+    {
+        "Name": "请选择要编辑的订单",
+        "Value": "Please select the order to be edited."
+    },
+    {
+        "Name": "请选择要操作的订单",
+        "Value": "Please select the order to be processed."
+    },
+    {
+        "Name": "请选择要删除的常用旅客",
+        "Value": "Please select the frequent traveller to delete."
+    },
+    {
+        "Name": "请选择要预订的航班",
+        "Value": "Please select the flight to book."
+    },
+    {
+        "Name": "请选择一个最低价航班",
+        "Value": "Please select the lowest fare flight."
+    },
+    {
+        "Name": "请选择预订类型",
+        "Value": "Please select booking type."
+    },
+    {
+        "Name": "请选择预订原因",
+        "Value": "Please select booking reason."
+    },
+    {
+        "Name": "请选择员工",
+        "Value": "Please select employee."
+    },
+    {
+        "Name": "请选择员工部门",
+        "Value": "Please select employee's department."
+    },
+    {
+        "Name": "请选择员工职级",
+        "Value": "Please select employee rank."
+    },
+    {
+        "Name": "请选择字典分类",
+        "Value": "Please select categories of dictionary."
+    },
+    {
+        "Name": "请在向服务器请求数据....",
+        "Value": "Please request data from the server."
+    },
+    {
+        "Name": "请至少包含一个单元订单项再提交",
+        "Value": "Please include at least one unit order item before submitting."
+    },
+    {
+        "Name": "请至少选中一个项目",
+        "Value": "Please select at least one item."
+    },
+    {
+        "Name": "取消成功",
+        "Value": "Successfully cancelled"
+    },
+    {
+        "Name": "取消订单提交成功",
+        "Value": "Cancellation of order submitted successfully"
+    },
+    {
+        "Name": "取消订单提交失败",
+        "Value": "Failed to submit cancellation of order"
+    },
+    {
+        "Name": "取消时发生错误，请联系客服",
+        "Value": "Error occurred during cancellation, please contact customer service."
+    },
+    {
+        "Name": "取消异常",
+        "Value": "Unable to cancel"
+    },
+    {
+        "Name": "取消支付成功",
+        "Value": "Payment cancelled successfully"
+    },
+    {
+        "Name": "取消支付单失败",
+        "Value": "Faile to cancel payment"
+    },
+    {
+        "Name": "确定继续出票？",
+        "Value": "Continue to issue the ticket(s)?"
+    },
+    {
+        "Name": "确定要删除选中的 ",
+        "Value": "Continue to delete the selected"
+    },
+    {
+        "Name": "确认成功，您的订单会尽快处理",
+        "Value": "Confirmed. Your order will be processed as soon as possible."
+    },
+    {
+        "Name": "确认继续预订？",
+        "Value": "Confirm to continue booking?"
+    },
+    {
+        "Name": "确认取消该申请单吗？",
+        "Value": "Confirm to cancel the application form?"
+    },
+    {
+        "Name": "确认删除",
+        "Value": "Confirm to delete"
+    },
+    {
+        "Name": "确认删除?",
+        "Value": "Confirm to delete?"
+    },
+    {
+        "Name": "确认删除吗？",
+        "Value": "Are you sure to delete?"
+    },
+    {
+        "Name": "确认提交",
+        "Value": "Are you sure to submit?"
+    },
+    {
+        "Name": "日期区间最大为1年",
+        "Value": "Maximum date range is 1 year."
+    },
+    {
+        "Name": "若您未按照订单中的航班顺序乘坐，将自行承担航班无法登机的所有风险和责任",
+        "Value": "If you fail to take the flights in order, you will bear all the risks and responsibilities for denied boarding."
+    },
+    {
+        "Name": "删除单元项成功",
+        "Value": "Unit item deleted successfully"
+    },
+    {
+        "Name": "删除单元项失败",
+        "Value": "Failed to delete unit item"
+    },
+    {
+        "Name": "删除失败",
+        "Value": "Delete failed"
+    },
+    {
+        "Name": "删除异常",
+        "Value": "Unable to delete"
+    },
+    {
+        "Name": "是否继续预订",
+        "Value": "Continue booking?"
+    },
+    {
+        "Name": "是否确认取消该订单？",
+        "Value": "Confirm to cancel the order?"
+    },
+    {
+        "Name": "是否确认删除该单元项？",
+        "Value": "Confirm to delete this unit item?"
+    },
+    {
+        "Name": "是否确认提交该订单？",
+        "Value": "Confirm to submit the order?"
+    },
+    {
+        "Name": "手机号格式不正确",
+        "Value": "Incorrect format of mobile phone number"
+    },
+    {
+        "Name": "手机验证码不能为空",
+        "Value": "Mobile phone verification code cannot be blank."
+    },
+    {
+        "Name": "提交订单异常",
+        "Value": "Unable to Submit Order"
+    },
+    {
+        "Name": "提交失败：",
+        "Value": "Submission failed:"
+    },
+    {
+        "Name": "提交预订失败",
+        "Value": "Failed to submit reservation"
+    },
+    {
+        "Name": "提交预订异常",
+        "Value": "Unable to submit reservation"
+    },
+    {
+        "Name": "往返城市相同",
+        "Value": "to and from the same city"
+    },
+    {
+        "Name": "位乘机人附加信息中的",
+        "Value": "XX passenger(s): the XXX of the additional information…"
+    },
+    {
+        "Name": "位乘机人国籍不能为空",
+        "Value": "XX passenger(s): nationality cannot be blank."
+    },
+    {
+        "Name": "位乘机人国籍信息不完善",
+        "Value": "XX passenger(s): nationality incomplete"
+    },
+    {
+        "Name": "位乘机人缺少国籍",
+        "Value": "XX passenger(s): lack of place of nationality"
+    },
+    {
+        "Name": "位乘机人缺少证件签发国",
+        "Value": "XX passenger(s): lack of place of issue"
+    },
+    {
+        "Name": "位乘机人生日不能为空",
+        "Value": "XX passenger(s): birthday(s) cannot be blank."
+    },
+    {
+        "Name": "位乘机人生日信息不完善",
+        "Value": "XX passenger(s): birthday(s) incomplete"
+    },
+    {
+        "Name": "位乘机人手机号不能为空",
+        "Value": "XX passenger(s): mobile phone number(s) cannot be blank."
+    },
+    {
+        "Name": "位乘机人手机号信息不完善",
+        "Value": "XX passenger(s): mobile phone number(s) incomplete"
+    },
+    {
+        "Name": "位乘机人性别不能为空",
+        "Value": "XX passenger(s): gender(s) cannot be blank."
+    },
+    {
+        "Name": "位乘机人性别信息不完善",
+        "Value": "XX passenger(s): gender(s) incomplete"
+    },
+    {
+        "Name": "位乘机人姓名不能为空",
+        "Value": "XX passenger(s): name(s) cannot be blank."
+    },
+    {
+        "Name": "位乘机人姓名信息不完善",
+        "Value": "XX passenger(s): name(s) incomplete"
+    },
+    {
+        "Name": "位乘机人英文名不能为空",
+        "Value": "XX passenger(s): English name(s) cannot be blank."
+    },
+    {
+        "Name": "位乘机人英文名信息不完善",
+        "Value": "XX passenger(s): English name(s) incomplete"
+    },
+    {
+        "Name": "位乘机人邮箱不能为空",
+        "Value": "XX passenger(s): email address(es) cannot be blank."
+    },
+    {
+        "Name": "位乘机人证件号不能为空",
+        "Value": "XX passenger(s): ID nubmer(s) cannot be blank."
+    },
+    {
+        "Name": "位乘机人证件号不完善",
+        "Value": "XX passenger(s): ID number(s) incomplete"
+    },
+    {
+        "Name": "位乘机人证件信息不能为空",
+        "Value": "XX passenger(s): ID information cannot be blank."
+    },
+    {
+        "Name": "位乘机人证件信息不完善",
+        "Value": "XX passenger(s): ID information incomplete"
+    },
+    {
+        "Name": "位乘机人证件有效期不能为空",
+        "Value": "XX passenger(s): ID expiration date(s) cannot be blank."
+    },
+    {
+        "Name": "位乘机人证件有效期不完善",
+        "Value": "XX passenger(s): ID expiration date(s) incomplete"
+    },
+    {
+        "Name": "位乘机人证件有效期不正确",
+        "Value": "XX passenger(s): ID expiration date(s) incorrect"
+    },
+    {
+        "Name": "位乘机人证件有效期不足半年",
+        "Value": "XX passenger(s): ID expire(s) in less than six months"
+    },
+    {
+        "Name": "位乘客，",
+        "Value": "XX passenger(s)"
+    },
+    {
+        "Name": "位乘客，信息中的",
+        "Value": "XX passenger(s): the XXX of the information…"
+    },
+    {
+        "Name": "位乘客的出生日期不能为空",
+        "Value": "XX passenger(s): The birthday(s) cannot be blank."
+    },
+    {
+        "Name": "位乘客的性别不能为空",
+        "Value": "XX passenger(s): The gender(s) cannot be blank."
+    },
+    {
+        "Name": "位乘客的邮箱不能为空",
+        "Value": "XX passenger(s): The email address(es) cannot be blank."
+    },
+    {
+        "Name": "位乘客附加信息中的",
+        "Value": "XX passenger(s): the XX of the additional information"
+    },
+    {
+        "Name": "位出差人，信息中的",
+        "Value": "XX traveller(s): the XX of the information…"
+    },
+    {
+        "Name": "我们为您选择的航班组合查询出更低价",
+        "Value": "We've got cheaper flight combinations for you."
+    },
+    {
+        "Name": "已成功删除 ",
+        "Value": "Deleted successfully"
+    },
+    {
+        "Name": "已开启消息提醒！",
+        "Value": "Message notification enabled!"
+    },
+    {
+        "Name": "隐藏共享航班",
+        "Value": "Hide shared flights"
+    },
+    {
+        "Name": "用户名不能为空",
+        "Value": "User name cannot be blank."
+    },
+    {
+        "Name": "用户信息不完整。。。",
+        "Value": "User information incomplete"
+    },
+    {
+        "Name": "邮件不能为空",
+        "Value": "Email address cannot be blank."
+    },
+    {
+        "Name": "邮箱格式不正确",
+        "Value": "Incorrect email format"
+    },
+    {
+        "Name": "与",
+        "Value": "and"
+    },
+    {
+        "Name": "月度折扣分析",
+        "Value": "Monthly discount analysis"
+    },
+    {
+        "Name": "在这里修改名字：",
+        "Value": "Change name here:"
+    },
+    {
+        "Name": "暂不预订",
+        "Value": "Skip reservation"
+    },
+    {
+        "Name": "暂无相关信息",
+        "Value": "No relevant information"
+    },
+    {
+        "Name": "账号切换成功",
+        "Value": "Account switched successfully"
+    },
+    {
+        "Name": "账号切换失败：",
+        "Value": "Account switch failed:"
+    },
+    {
+        "Name": "折以内的原因",
+        "Value": "Reason for XX% off"
+    },
+    {
+        "Name": "正在保存...",
+        "Value": "Saving…"
+    },
+    {
+        "Name": "正在登录...",
+        "Value": "Logging in…"
+    },
+    {
+        "Name": "正在发送短信...",
+        "Value": "Sending SMS…"
+    },
+    {
+        "Name": "正在核验中",
+        "Value": "Verifying…"
+    },
+    {
+        "Name": "正在计算...",
+        "Value": "Calculating…"
+    },
+    {
+        "Name": "正在加载。。。",
+        "Value": "Loading"
+    },
+    {
+        "Name": "正在努力加载。。。",
+        "Value": "Loading.."
+    },
+    {
+        "Name": "正在努力加载中。。。",
+        "Value": "Loading…"
+    },
+    {
+        "Name": "正在请求...",
+        "Value": "Requesting…"
+    },
+    {
+        "Name": "正在请求。。。",
+        "Value": "Requesting"
+    },
+    {
+        "Name": "正在取消，请等候...",
+        "Value": "Cancelling, please wait…"
+    },
+    {
+        "Name": "正在删除...",
+        "Value": "Deleting…"
+    },
+    {
+        "Name": "正在提交...",
+        "Value": "Submitting…"
+    },
+    {
+        "Name": "正在提交申请...",
+        "Value": "Submitting application…"
+    },
+    {
+        "Name": "正在提交数据，请稍后...",
+        "Value": "Submitting data, please wait…"
+    },
+    {
+        "Name": "正在跳转",
+        "Value": "Redirecting"
+    },
+    {
+        "Name": "正在同步，请稍候...",
+        "Value": "Syncing, please wait…"
+    },
+    {
+        "Name": "证件信息为空",
+        "Value": "ID information is blank."
+    },
+    {
+        "Name": "职级名称和职级编号不能为空",
+        "Value": "Name and code of the employee rank cannot be blank."
+    },
+    {
+        "Name": "中的",
+        "Value": "of"
+    },
+    {
+        "Name": "种价格",
+        "Value": "types of prices"
+    },
+    {
+        "Name": "重复预订",
+        "Value": "Repeat booking"
+    },
+    {
+        "Name": "重新选择出差人",
+        "Value": "Select the traveller again."
+    },
+    {
+        "Name": "单据类型",
+        "Value": "Document type"
+    }
+]
