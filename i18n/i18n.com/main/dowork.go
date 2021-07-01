@@ -62,12 +62,16 @@ func main() {
 		if err != nil {
 			panic(err)
 		}
-		sxml, err := os.Create(path + "/sxml.xml")
+		sxml, err := os.Create(path + "/sxml_en.xml")
 		if err != nil {
 			panic(err)
 		}
 		var str string
-		for _, item := range waittingHandle {
+		existed := make([]string, 0)
+		for _, item := range m {
+			if IsContain(existed, item.Texts) {
+				continue
+			}
 			str += fmt.Sprintf(`<data name="%s" xml:space="preserve">`, item.Texts)
 			//生成英文xml
 			if item.TextEn == "" {
@@ -76,11 +80,11 @@ func main() {
 				str += fmt.Sprintf(`<value>%s</value></data>`, item.TextEn)
 			}
 			//中文xml
-			str += fmt.Sprintf(`<value>%s</value></data>`, item.Texts)
+			// str += fmt.Sprintf(`<value>%s</value></data>`, item.Texts)
+			existed = append(existed, item.Texts)
 		}
-
-		defer sxml.Close()
 		sxml.WriteString(str)
+		sxml.Close()
 	}
 
 	// //读取翻译文本到map 并生成json
@@ -462,4 +466,13 @@ func splitSlice(list []MiddleExcel) [][]MiddleExcel {
 		i = j
 	}
 	return returnData
+}
+
+func IsContain(items []string, item string) bool {
+	for _, eachItem := range items {
+		if eachItem == item {
+			return true
+		}
+	}
+	return false
 }
